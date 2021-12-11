@@ -2,7 +2,7 @@
   {
     "name": "SushiToken",
     "symbol": "SUSHI",
-    "address": "0xB77bc40C0b98e88E9E469895A9196f3B23339af6",
+    "address": "0x62783f3Ea566c5d5f31E4f1F36F4aE3111097966",
     "chainId": 97,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
@@ -10,7 +10,7 @@
   {
     "name": "SushiBar",
     "symbol": "xSUSHI",
-    "address": "0xEC325fD75F32F700138Bfa3dfa45bc9a2eae8E84",
+    "address": "0xE1037D2167b9CAc385cEdC055967F0278B50E23D",
     "chainId": 97,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"

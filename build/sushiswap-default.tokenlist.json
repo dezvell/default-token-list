@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2021-12-11T01:15:07.027Z",
+  "timestamp": "2021-12-13T13:12:29.423Z",
   "version": {
     "major": 20,
     "minor": 1,
@@ -4791,6 +4791,14 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    },
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0xec5dcb5dbf4b114c9d0f65bccab49ec54f6a0867",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
     },
     {
       "name": "SushiToken",

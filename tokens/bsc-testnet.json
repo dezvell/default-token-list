@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
   },
   {
+    "name": "Dai Token",
+    "symbol": "DAI",
+    "address": "0xec5dcb5dbf4b114c9d0f65bccab49ec54f6a0867",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+  },
+  {
     "name": "WBNB Token",
     "symbol": "WBNB",
     "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
